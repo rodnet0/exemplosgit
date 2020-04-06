@@ -1,4 +1,3 @@
-Meu primeiro projeto no GIT
+Meu primeiro projeto no GIT (alterado e atualizado!)
 Vou fazer mais uma alteração
-alguma nova linha legal
 essa alteração só estará visível na branch master
