@@ -1,3 +1,3 @@
-Meu primeiro projeto no GIT (alterado e atualizado!)
-Estou gostando de aprender git e github
-mais uma linha no readme
+-Meu primeiro projeto no GIT (alterado e atualizado!)
+-Estou gostando de aprender git e github
+-Este repsitório é destinado ao aprendizado da ferramenta git
