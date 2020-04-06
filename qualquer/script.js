@@ -1,0 +1,1 @@
+let exemplo = document.querySelector('h1')
