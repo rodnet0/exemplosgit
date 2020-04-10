@@ -9,4 +9,12 @@ public class Classe{
     public String getNome{
         return this.nome;
     }
+
+    public void setIdade(int idade){
+        this.idade = idade;
+    }
+
+    public void setNome(String nome){
+        this.nome = nome;
+    }
 }
